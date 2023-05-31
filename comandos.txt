@@ -1,0 +1,334 @@
+    1  dir
+    2  ls
+    3  dir
+    4  dir
+    5  clear
+    6  ls
+    7  md DH
+    8  cd diseño
+    9  dir
+   10  cd
+   11  cd /desktop
+   12  cd diseño
+   13  cd..
+   14  cd.
+   15  cd
+   16  cd cd escritorio
+   17  cd escritorio
+   18  cd desktop
+   19  dir
+   20  cd diseño
+   21  cd desktop
+   22  ..
+   23  .
+   24  ..
+   25  ...
+   26  mkdir clase2
+   27  cd clase2/
+   28  touch ola.txt
+   29  ls
+   30  ls
+   31  rm ola.txt 
+   32  dir
+   33  mkdir carpeta1 carpeta2
+   34  cd carpeta
+   35  cd carpeta1
+   36  touch readme.txt
+   37  cd ..
+   38  ls
+   39  tree
+   40  dir
+   41  rm carpeta1
+   42  rm -r carpeta1
+   43  cd carpeta2/////
+   44  help
+   45  ?
+   46  ls
+   47  mkdir peliculas
+   48  cd peliculas/
+   49  mkdir terror
+   50  cd terror/
+   51  dir
+   52  touch movie.txt
+   53  cd ..
+   54  cd..
+   55  cd ..
+   56  cd..
+   57  cd ..
+   58  tree
+   59  treetreetree
+   60  ASD
+   61  ASD
+   62  a
+   63  !
+   64  !
+   65  !
+   66  !!!
+   67  bol
+   68  !
+   69  boll!
+   70  bol
+   71  !
+   72  !!!!
+   73  AS
+   74  ls
+   75  dir
+   76  dir
+   77  cd carpeta2/
+   78  dor
+   79  dir
+   80  cd ..
+   81  cd ..
+   82  dir
+   83  ls
+   84  ls -l
+   85  ls -a
+   86  ll
+   87  ls -r
+   88  dir
+   89  ls -l
+   90  ls -1
+   91  ls -1R
+   92  history
+   93  clear
+   94  history
+   95  clear
+   96  history
+   97  history
+   98  mkdir DH
+   99  cd dh
+  100  dir
+  101  cd
+  102  rm Dh
+  103  dir
+  104  cd desktop
+  105  dir
+  106  clear
+  107  rm DH
+  108  rm -r DH
+  109  dir
+  110  history
+  111  clear
+  112  cd dh
+  113  dir
+  114  mkdir DH
+  115  cd dh
+  116  clear
+  117  cd ..
+  118  ls -r
+  119  cd diseño
+  120  dir
+  121  cd clase2
+  122  dir
+  123  cd carpeta2/
+  124  dir
+  125  cd peliculas/
+  126  ls -r
+  127  clear
+  128  dir
+  129  cd dH
+  130  dir
+  131  clear
+  132  dir
+  133  md peliculas
+  134  mkdir peliculas
+  135  ls
+  136  cd peliculas/
+  137  mkdir infantiles accion terror comedia romanticas
+  138  ls
+  139  cd infantiles/
+  140  touch intenzamente.txt "el juego del miedo".xls "rapido y furioso".pdf titanic.jpg
+  141  ls
+  142  cd ..
+  143  cd accion/
+  144  touch "smooth criminal".txt "diario de una pasion".js "el hexortista".xls cars.jpg
+  145  ls
+  146  cd ..
+  147  cd terror/
+  148  touch "la dama y el bagavundo".png "yo antes de ti".xls "que paso ayer".pdf "we will rock you".js 
+  149  ls
+  150  cd ..
+  151  cd comedia/
+  152  ls
+  153  touch madagaskar.js "orgullo y prejuicio".txt IT.ls "mision imposible".png
+  154  ls
+  155  cd ..
+  156  cd romanticas/
+  157  touch pocahontas.jpg annabelle.js "los vengadores".js "la mascara".js
+  158  ls
+  159  cd ..
+  160  ls -R
+  161  cd..
+  162  cd ..
+  163  ls
+  164  mkdir romanticas/prueba 
+  165  mkdir /peliculas/romanticas/prueba 
+  166  ls
+  167  mkdir peliculas/romanticas/ Prueba
+  168  mkdir peliculas/romanticas/Prueba
+  169  cd peliculas/
+  170  cd romanticas/
+  171  mkdir ../accion/Prueba2
+  172  history > comandos.txt
+  173  cd dh
+  174  cd peliculas/
+  175  clear
+  176  ls -R
+  177  touch index.html script.js
+  178  git init
+  179  git branch -m main
+  180  git add index.html 
+  181  git status
+  182  --global
+  183  git config --global user.name "nastacosta"
+  184  git config --global user.email "go.acosta3@gmail.com"
+  185  git config -l
+  186  git config -l
+  187  git config -l
+  188  git config -l
+  189  git.config -l
+  190  git status
+  191  git commit -m "primercommit"
+  192  git log
+  193  git add .
+  194  git status
+  195  git commit
+  196  git status
+  197  git commit
+  198  git init
+  199  git commit -m "actividad_1"
+  200  git add .
+  201  git commit -m "actividad_1"
+  202  git branch -M main
+  203  git add .
+  204  git log
+  205  git remote add origin https://github.com/nastacosta/front_end1.git
+  206  git push -u origin main 
+  207  git pull
+  208  cat > Gonzalito.txt 
+  209  cat > Gonzalito.txt 
+  210  git pull
+  211  git add .
+  212  git commit -m "edite mi txt"
+  213  git push origin master 
+  214  git add .
+  215  git push origin master
+  216  git pull
+  217  git push origin master
+  218  git status
+  219  git commit -m "cambie mi txt"
+  220  git push origin master
+  221  mkdir informes
+  222  cd informes/
+  223  touch informeAnual.xls
+  224  ls
+  225  mkdir auditoria
+  226  touch auditoria.xls
+  227  ls
+  228  mv auditoria.xls auditoria
+  229  cd auditoria/
+  230  ls
+  231  git --version
+  232  dir
+  233  cd dh
+  234  dir
+  235  cd prueba
+  236  ls
+  237  ls -l
+  238  clear
+  239  git init
+  240  clear
+  241  mkdir carpeta
+  242  cd carpeta/
+  243  git init
+  244  touch app.js
+  245  git status
+  246  git add app.js
+  247  git status
+  248  cd ..
+  249  rm -r carpeta/
+  250  ls
+  251  mkdir mercadoAbierto
+  252  cd mercadoAbierto/
+  253  git init
+  254  touch productos.js
+  255  git status
+  256  clear
+  257  git add productos.js 
+  258  git status
+  259  git commit -m "mi primer commit"
+  260  git status
+  261  clear
+  262  ls
+  263  clear
+  264  cd ..
+  265  cd ..
+  266  mkdir prueba_intro
+  267  cd prueba_intro/
+  268  git clone https://github.com/nastacosta/clase6.git
+  269  cd clase6/
+  270  touch app.js
+  271  git status
+  272  git add app.js
+  273  git status
+  274  git commit -m "mi primer commit"
+  275  git status
+  276  git push origin main
+  277  git status
+  278  git switch main 
+  279  git branch
+  280  git branch Entrega1
+  281  git switch Entrega1 
+  282  ls
+  283  git status
+  284  cd Entrega1
+  285  a
+  286  git status
+  287  git status
+  288  git add .
+  289  git status
+  290  git commit -m "Entrega1 Gonzalo Acosta"
+  291  git push origin Entrega1 
+  292  git merge
+  293  git switch main
+  294  git status
+  295  git merge main Entrega1 
+  296  git status
+  297  git push origin main 
+  298  git remote -v
+  299  git remote -v
+  300  git remote -v
+  301  git remote -v
+  302  mkdir prueba03
+  303  cd prueba03/
+  304  git init
+  305  git remote -v
+  306  git remote -v
+  307  git remote -v
+  308  git remote add
+  309  git remote add url
+  310  git clone
+  311  mkdir Actividades
+  312  cd Actividades/
+  313  mkdir "Deportes de equipo" "Deportes acuaticos" "Deportes extremos" "Deportes de mesa" "Deportes mentales"
+  314  ls -a
+  315  dir
+  316  touch Deportes\ de\ equipo/Basquet
+  317  touch Deportes\ de\ mesa/Ajedrez.txt
+  318  rm Deportes\ de\ mesa/Ajedrez.txt 
+  319  touch Deportes\ de\ mesa/"Ping Pong"
+  320  rm Deportes\ mentales/Ajedrez.txt
+  321  touch Deportes\ mentales/Ajedrez.txt
+  322  clear
+  323  ls -R
+  324  ls -a
+  325  rm Deportes\ extremos/
+  326  rm -r Deportes\ extremos/
+  327  pwd
+  328  git init
+  329  git add .
+  330  git status
+  331  git commit -m "primer commit"
+  332  git remote add origin https://github.com/nastacosta/test-examen-clase11.git
+  333  git push origin main
+  334  history > comandos.txt
